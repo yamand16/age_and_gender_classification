@@ -1,6 +1,6 @@
 # Age and Gender Classification using Ear and Profile Face Images
 
-Papers:
+If you use these codes, please refers our papers:
 
 [1]
 

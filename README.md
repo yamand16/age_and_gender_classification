@@ -1,7 +1,10 @@
 # Age and Gender Classification using Ear and Profile Face Images
 
 ### Text Files
+
 There are 8 text files that contain ear and profile face image names with age and gender labels.
+
+Codes and other files will be included.
 
 If you use these codes, please refers our papers:
 

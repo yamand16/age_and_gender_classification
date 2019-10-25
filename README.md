@@ -2,9 +2,9 @@
 
 ### Text Files
 
-There are 8 text files that contain ear and profile face image names with age and gender labels.
+For FERET dataset, there are 8 text files that contain ear and profile face image names with age and gender labels.
 
-Codes and other files will be included.
+Codes, geometric features for our dataset, cropped ear and profile face coordinates will be included.
 
 If you use these codes, please refers our papers:
 

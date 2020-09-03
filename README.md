@@ -14,8 +14,18 @@ If you use these codes, please refers our papers:
 
 ### Datasets
 
+Dataset  | Train data | Test data
+-------- | ---------- | ---------
+FERET    |            |
+UND-F    |            | 
+UND-J2   |            |
+
 ### Models
+
+We used VGG-16 and ResNet-50 deep CNN models.
 
 ### Train Model
 
 ### Test Model
+
+### References

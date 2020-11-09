@@ -1,6 +1,6 @@
 # Age and Gender Classification using Ear and Profile Face Images
 
-Note: One of the our paper is under review now. After it finishes, we will share our codes, pretrained models, and other necessary information/files.
+Note: One of the our paper is under review now. After the review process is concluded, we will share our codes, pretrained models, and other necessary information/files.
 
 ### Text Files
 

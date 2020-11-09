@@ -1,5 +1,7 @@
 # Age and Gender Classification using Ear and Profile Face Images
 
+Note: One of the our paper is under review now. After it finishes, we will share our codes, pretrained models, and other necessary information/files.
+
 ### Text Files
 
 For FERET dataset, there are 8 text files that contain ear and profile face image names with age and gender labels.
